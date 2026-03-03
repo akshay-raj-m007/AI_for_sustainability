@@ -1,0 +1,56 @@
+
+
+
+latest
+
+
+Epoch 1/10
+Train Loss: 0.4842 | Test Loss: 0.3203
+Train Acc: 0.8368 | Test Acc: 0.8848
+Macro F1: 0.8196
+========================================
+Epoch 2/10
+Train Loss: 0.3358 | Test Loss: 0.3271
+Train Acc: 0.8852 | Test Acc: 0.9036
+Macro F1: 0.8483
+========================================
+Epoch 3/10
+Train Loss: 0.2526 | Test Loss: 0.3066
+Train Acc: 0.9102 | Test Acc: 0.9123
+Macro F1: 0.8611
+========================================
+Epoch 4/10
+Train Loss: 0.2255 | Test Loss: 0.2907
+Train Acc: 0.9178 | Test Acc: 0.9104
+Macro F1: 0.8531
+========================================
+Epoch 5/10
+Train Loss: 0.1864 | Test Loss: 0.3070
+Train Acc: 0.9328 | Test Acc: 0.9136
+Macro F1: 0.8621
+========================================
+Epoch 6/10
+Train Loss: 0.1739 | Test Loss: 0.2912
+Train Acc: 0.9377 | Test Acc: 0.9183
+Macro F1: 0.8690
+========================================
+Epoch 7/10
+Train Loss: 0.1386 | Test Loss: 0.3586
+Train Acc: 0.9477 | Test Acc: 0.9242
+Macro F1: 0.8736
+========================================
+Epoch 8/10
+Train Loss: 0.1143 | Test Loss: 0.3506
+Train Acc: 0.9587 | Test Acc: 0.9142
+Macro F1: 0.8589
+========================================
+Epoch 9/10
+Train Loss: 0.1290 | Test Loss: 0.3508
+Train Acc: 0.9516 | Test Acc: 0.9139
+Macro F1: 0.8662
+========================================
+Epoch 10/10
+Train Loss: 0.1130 | Test Loss: 0.3408
+Train Acc: 0.9605 | Test Acc: 0.9280
+Macro F1: 0.8797
+========================================
